@@ -1,2 +1,2 @@
-# Hospital-Data-Analysis-SQL
+# Healthcare -Data-Analysis-SQL
 As a Data analyst I have analyzed the healthcare dataset containing information about various hospitals all across north america to identify patterns and do patient flow analysis, resource utilization, check operational efficiency. Heathcare in North america has a lot of shortages and ineffciencies and with a proper analysis I have recomended stakeholders to improve the staff to patient ratio and Emergency response timing in order to improve the healthcare quality. Also there is a need to allocate the beds more efficiently to different departments as tere are significant shortages of beds in some departments while there is an unnecessary surplus in general medicine ward.
